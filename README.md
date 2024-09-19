@@ -1,2 +1,2 @@
 # Dum-E
-Dum-E is a hypertext skewer.
+Dum-E is a hypertext bundler.
