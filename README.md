@@ -1,2 +1,2 @@
 # dum-e
-A hypertext bundler.
+Dum-E is a hypertext bundler.
