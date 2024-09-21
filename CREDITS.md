@@ -50,6 +50,23 @@ No need
 - [rollup](https://github.com/rollup/rollup)
 - [@rollup/plugin-terser](https://github.com/rollup/plugins/tree/master/packages/terser)
 
+##### JavaScript Polyfill Compiler
+
+- [@babel/cli](https://github.com/babel/babel/tree/main/packages/babel-cli)
+- [@babel/core](https://github.com/babel/babel/tree/main/packages/babel-core)
+- [@babel/preset-env](https://github.com/babel/babel/tree/main/packages/babel-preset-env)
+
+##### JavaScript Polyfill Linker
+
+- [rollup](https://github.com/rollup/rollup)
+- [@rollup/plugin-node-resolve](https://github.com/rollup/plugins/tree/master/packages/node-resolve)
+- [@rollup/plugin-commonjs](https://github.com/rollup/plugins/tree/master/packages/commonjs)
+- [@rollup/plugin-terser](https://github.com/rollup/plugins/tree/master/packages/terser)
+
+##### JavaScript Polyfill Library
+
+- [core-js](https://github.com/zloirock/core-js)
+
 ##### HTML Linter
 
 - [htmlhint](https://github.com/HTMLHint/HTMLHint)
