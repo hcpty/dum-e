@@ -12,6 +12,6 @@ export default {
         ]
       : [
           atImport(),
-          process.env.MODE == "release" ? cssnano({ preset: "default" }) : null,
+          process.env.MODE == "debug" ? null : cssnano({ preset: "default" }),
         ],
 };
