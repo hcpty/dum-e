@@ -5,10 +5,6 @@ import cssnano from "cssnano";
 export default {
   plugins:
     process.env.STEP == "compile"
-      ? [
-          postcssPresetEnv({
-            browsers: "last 2 versions, not dead, > 0.2%",
-          }),
-        ]
+      ? [postcssPresetEnv({ browsers: "defaults" })]
       : [postcssImport(), process.env.MODE == "debug" ? null : cssnano()],
 };
