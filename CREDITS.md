@@ -6,10 +6,21 @@
 - [mvn](https://github.com/apache/maven)
 - [maven-dependency-plugin](https://github.com/apache/maven-dependency-plugin)
 
-### Java Formatter, Java Linter and Java Compiler
+### Java Formatter
 
 - [google-java-format](https://github.com/google/google-java-format)
+
+### Java Linter
+
 - [javac](https://github.com/oracle/graal)
+
+### Java Compiler
+
+- [javac](https://github.com/oracle/graal)
+
+### Java Linker
+
+No need
 
 ### Node.js Engine and Node.js Package Manager
 
