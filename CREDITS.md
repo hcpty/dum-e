@@ -1,6 +1,6 @@
 # Credits
 
-This project would not be possible without these softwares.
+This Dum-E project would not be possible without these softwares.
 
 ##### Java Engine and Java Package Manager
 
