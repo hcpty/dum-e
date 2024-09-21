@@ -4,7 +4,7 @@ import cssnano from "cssnano";
 
 export default {
   plugins:
-    process.env.USE == "compiler"
+    process.env.STEP == "compile"
       ? [
           postcssPresetEnv({
             browsers: "last 2 versions, not dead, > 0.2%",
