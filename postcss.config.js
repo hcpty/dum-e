@@ -1,5 +1,5 @@
 import postcssPresetEnv from "postcss-preset-env";
-import atImport from "postcss-import";
+import postcssImport from "postcss-import";
 import cssnano from "cssnano";
 
 export default {
@@ -10,8 +10,5 @@ export default {
             browsers: "last 2 versions, not dead, > 0.2%",
           }),
         ]
-      : [
-          atImport(),
-          process.env.MODE == "debug" ? null : cssnano({ preset: "default" }),
-        ],
+      : [postcssImport(), process.env.MODE == "debug" ? null : cssnano()],
 };
