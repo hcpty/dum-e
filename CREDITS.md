@@ -50,7 +50,7 @@ No need
 - [rollup](https://github.com/rollup/rollup)
 - [@rollup/plugin-terser](https://github.com/rollup/plugins/tree/master/packages/terser)
 
-##### JavaScript Polyfill Library
+##### JavaScript Polyfill Source
 
 - [core-js](https://github.com/zloirock/core-js)
 
@@ -60,7 +60,7 @@ No need
 - [@babel/core](https://github.com/babel/babel/tree/main/packages/babel-core)
 - [@babel/preset-env](https://github.com/babel/babel/tree/main/packages/babel-preset-env)
 
-##### JavaScript Polyfill Linker
+##### JavaScript Polyfill Bundler
 
 - [rollup](https://github.com/rollup/rollup)
 - [@rollup/plugin-node-resolve](https://github.com/rollup/plugins/tree/master/packages/node-resolve)
