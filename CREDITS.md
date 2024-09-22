@@ -24,6 +24,10 @@ This Dum-E project would not be possible without these softwares.
 
 - [javac](https://github.com/oracle/graal)
 
+##### Java Bundler
+
+- [jar](https://github.com/oracle/graal)
+
 ##### Node.js Engine and Node.js Package Manager
 
 - [node](https://github.com/nodejs/node)
@@ -99,7 +103,3 @@ No need
 - [postcss](https://github.com/postcss/postcss)
 - [postcss-import](https://github.com/postcss/postcss-import)
 - [cssnano](https://github.com/cssnano/cssnano)
-
-##### Hypertext Bundler
-
-- [jar](https://github.com/oracle/graal)
