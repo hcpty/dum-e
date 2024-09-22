@@ -54,7 +54,7 @@ This Dum-E project would not be possible without these softwares.
 - [rollup](https://github.com/rollup/rollup)
 - [@rollup/plugin-terser](https://github.com/rollup/plugins/tree/master/packages/terser)
 
-##### JavaScript Polyfill Source
+##### JavaScript Polyfill Provider
 
 - [core-js](https://github.com/zloirock/core-js)
 
