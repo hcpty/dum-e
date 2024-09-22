@@ -22,7 +22,7 @@ This Dum-E project would not be possible without these softwares.
 
 ##### Java Linker
 
-No need
+- [javac](https://github.com/oracle/graal)
 
 ##### Node.js Engine and Node.js Package Manager
 
@@ -60,7 +60,7 @@ No need
 - [@babel/core](https://github.com/babel/babel/tree/main/packages/babel-core)
 - [@babel/preset-env](https://github.com/babel/babel/tree/main/packages/babel-preset-env)
 
-##### JavaScript Polyfill Bundler
+##### JavaScript Polyfill Linker
 
 - [rollup](https://github.com/rollup/rollup)
 - [@rollup/plugin-node-resolve](https://github.com/rollup/plugins/tree/master/packages/node-resolve)
