@@ -4,7 +4,9 @@ This Dum-E project would not be possible without these softwares.
 ##### Java Engine
 - [java](https://github.com/oracle/graal)
 
-##### Java Achiver
+##### Java Dependency Manager
+- [mvn](https://github.com/apache/maven)
+- [maven-dependency-plugin](https://github.com/apache/maven-dependency-plugin)
 - [jar](https://github.com/oracle/graal)
 
 ##### Java Formatter
@@ -22,7 +24,7 @@ This Dum-E project would not be possible without these softwares.
 ##### Node.js Engine
 - [node](https://github.com/nodejs/node)
 
-##### Node.js Package Manager
+##### Node.js Dependency Manager
 - [npm](https://github.com/npm/cli)
 - [npx](https://github.com/npm/cli)
 
