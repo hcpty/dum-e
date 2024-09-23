@@ -21,10 +21,10 @@ This Dum-E project would not be possible without these softwares.
 ##### Java Linker
 - [javac](https://github.com/oracle/graal)
 
-##### Node.js Engine
+##### JavaScript Engine
 - [node](https://github.com/nodejs/node)
 
-##### Node.js Package Manager
+##### JavaScript Package Manager
 - [npm](https://github.com/npm/cli)
 - [npx](https://github.com/npm/cli)
 
