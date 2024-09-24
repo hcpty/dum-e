@@ -1,26 +1,6 @@
 # Credits
 This Dum-E project would not be possible without these softwares.
 
-##### Java Engine
-- [java](https://github.com/oracle/graal)
-
-##### Java Package Manager
-- [mvn](https://github.com/apache/maven)
-- [maven-dependency-plugin](https://github.com/apache/maven-dependency-plugin)
-- [jar](https://github.com/oracle/graal)
-
-##### Java Formatter
-- [google-java-format](https://github.com/google/google-java-format)
-
-##### Java Linter
-- [javac](https://github.com/oracle/graal)
-
-##### Java Compiler
-- [javac](https://github.com/oracle/graal)
-
-##### Java Linker
-- [javac](https://github.com/oracle/graal)
-
 ##### Node.js Engine
 - [node](https://github.com/nodejs/node)
 
