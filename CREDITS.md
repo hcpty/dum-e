@@ -44,6 +44,9 @@ This Dum-E project would not be possible without these softwares.
 - [rollup](https://github.com/rollup/rollup)
 - [@rollup/plugin-terser](https://github.com/rollup/plugins/tree/master/packages/terser)
 
+##### JavaScript Polyfill Provider
+- [core-js](https://github.com/zloirock/core-js)
+
 ##### JavaScript Polyfill Importer
 - [@babel/cli](https://github.com/babel/babel/tree/main/packages/babel-cli)
 - [@babel/core](https://github.com/babel/babel/tree/main/packages/babel-core)
@@ -54,9 +57,6 @@ This Dum-E project would not be possible without these softwares.
 - [@rollup/plugin-node-resolve](https://github.com/rollup/plugins/tree/master/packages/node-resolve)
 - [@rollup/plugin-commonjs](https://github.com/rollup/plugins/tree/master/packages/commonjs)
 - [@rollup/plugin-terser](https://github.com/rollup/plugins/tree/master/packages/terser)
-
-##### JavaScript Polyfill Provider
-- [core-js](https://github.com/zloirock/core-js)
 
 ##### HTML Linter
 - [htmlhint](https://github.com/HTMLHint/HTMLHint)
