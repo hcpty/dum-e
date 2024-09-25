@@ -4,10 +4,6 @@ This Dum-E project would not be possible without these softwares.
 ### Shell & Utilities
 - [Posix Shell & Utilities](https://pubs.opengroup.org/onlinepubs/9799919799/)
 
-### Language Runtimes
-
-### Language Package Managers
-
 ### Java Compiler
 - Java Formatter
     - [google-java-format](https://github.com/google/google-java-format)
