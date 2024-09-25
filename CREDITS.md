@@ -6,7 +6,7 @@ This Dum-E project would not be possible without these softwares.
 
 ### Language Runtimes
 
-### Package Managers
+### Language Package Managers
 
 ### Java Compiler
 - Java Formatter
@@ -36,7 +36,7 @@ This Dum-E project would not be possible without these softwares.
     - [prettier](https://github.com/prettier/prettier)
 - Linter
     - [htmlhint](https://github.com/HTMLHint/HTMLHint)
-- Compiler
+- Compiler *(No need)*
 - Linker
     - [posthtml-cli](https://github.com/posthtml/posthtml-cli)
     - [posthtml](https://github.com/posthtml/posthtml)
