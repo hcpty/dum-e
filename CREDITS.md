@@ -4,16 +4,6 @@ This Dum-E project would not be possible without these software.
 ### Shell & Utilities
 - [POSIX Shell & Utilities](https://pubs.opengroup.org/onlinepubs/9799919799/)
 
-### Java Compiler
-- Java Formatter
-    - [google-java-format](https://github.com/google/google-java-format)
-- Java Linter
-    - [javac](https://www.wikipedia.org/wiki/Javac)
-- Java Compiler
-    - [javac](https://www.wikipedia.org/wiki/Javac)
-- Java Linker
-    - [javac](https://www.wikipedia.org/wiki/Javac)
-
 ### JavaScript Compiler
 - Formatter
     - [prettier](https://github.com/prettier/prettier)
