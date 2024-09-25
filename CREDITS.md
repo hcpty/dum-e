@@ -1,5 +1,5 @@
 # Credits
-This Dum-E project would not be possible without these works.
+This Dum-E project would not be possible without these softwares.
 
 ### Shell & Utilities
 - [POSIX Shell & Utilities](https://pubs.opengroup.org/onlinepubs/9799919799/)
