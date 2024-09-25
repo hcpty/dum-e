@@ -1,9 +1,6 @@
 # Credits
 This Dum-E project would not be possible without these software.
 
-### Shell & Utilities
-- [POSIX Shell & Utilities](https://pubs.opengroup.org/onlinepubs/9799919799/)
-
 ### JavaScript Compiler
 - Formatter
     - [prettier](https://github.com/prettier/prettier)
