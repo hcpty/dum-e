@@ -1,6 +1,9 @@
 # Credits
 This Dum-E project would not be possible without these softwares.
 
+##### Shell & Utilities
+- [Posix Shell & Utilities](https://pubs.opengroup.org/onlinepubs/9799919799/)
+
 ##### Java Engine
 - [java](https://github.com/oracle/graal)
 
