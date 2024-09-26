@@ -1,7 +1,7 @@
 {
+  "type": "module",
   "name": "dum-e",
   "version": "0.1.0",
-  "type": "module",
   "dependencies": {
     "@babel/cli": "^7.25.6",
     "@babel/core": "^7.25.2",
