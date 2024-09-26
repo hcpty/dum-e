@@ -41,6 +41,6 @@ This Dum-E project would not be possible without these software.
     - [@babel/preset-env](https://github.com/babel/babel/tree/main/packages/babel-preset-env) & [core-js](https://github.com/zloirock/core-js)
 - Linker
     - [rollup](https://github.com/rollup/rollup)
-    - [@rollup/plugin-node-resolve](https://github.com/rollup/plugins/tree/master/packages/node-resolve) *(Limited use)*
-    - [@rollup/plugin-commonjs](https://github.com/rollup/plugins/tree/master/packages/commonjs) *(Limited use)*
+    - [@rollup/plugin-node-resolve](https://github.com/rollup/plugins/tree/master/packages/node-resolve) *(Limit use)*
+    - [@rollup/plugin-commonjs](https://github.com/rollup/plugins/tree/master/packages/commonjs) *(Limit use)*
     - [@rollup/plugin-terser](https://github.com/rollup/plugins/tree/master/packages/terser)
