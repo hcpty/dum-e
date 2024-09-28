@@ -1,2 +1,2 @@
 # Readme
-Dum-E is a Hypertext bundler.
+Dum-E is a Web bundler.
