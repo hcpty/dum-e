@@ -1,2 +1,2 @@
 # Readme
-Dum-E is a Site bundler.
+Dum-E is a Site & Web bundler.
