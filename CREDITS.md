@@ -1,6 +1,15 @@
 # Credits
 This Dum-E project would not be possible without these software.
 
+### Java Bundler
+- Formatter
+    - [google-java-format](https://github.com/google/google-java-format)
+- Linter
+    - [javac](https://en.wikipedia.org/wiki/Javac)
+- Compiler
+    - [javac](https://en.wikipedia.org/wiki/Javac)
+- Linker *(No Need)*
+
 ### HTML Bundler
 - Formatter
     - [prettier](https://github.com/prettier/prettier)
