@@ -2,4 +2,4 @@
 #
 # Undeploy targets.
 
-set -xe
+set -uex
