@@ -3,9 +3,3 @@
 # Deploy targets.
 
 set -uex
-
-for element in */; do
-  if [ -e "${element}target/${MODE}/" ]; then
-    echo "${element}"
-  fi
-done
