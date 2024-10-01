@@ -4,7 +4,9 @@ import cssnano from "cssnano";
 
 export default {
   plugins:
-    process.env.STEP == "link"
-      ? [postcssImport(), process.env.MODE == "debug" ? null : cssnano()]
-      : [postcssPresetEnv({ browsers: "defaults" })],
+    process.env.STEP != "link"
+      ? [postcssPresetEnv({ browsers: "defaults" })]
+      : process.env.MODE != "release"
+        ? [postcssImport()]
+        : [postcssImport(), cssnano()],
 };
