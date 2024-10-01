@@ -1,5 +1,4 @@
 # Credits
-This Dum-E project would not be possible without these software.
 
 ### Java Bundler
 - Formatter
