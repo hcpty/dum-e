@@ -22,7 +22,7 @@
     "posthtml-cli": "^0.10.0",
     "posthtml-include": "^2.0.1",
     "prettier": "^3.3.3",
-    "rollup": "^4.22.5",
+    "rollup": "^4.23.0",
     "stylelint": "^16.9.0",
     "stylelint-config-standard": "^36.0.1"
   }
