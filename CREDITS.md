@@ -31,7 +31,7 @@ This Dum-E project would not be possible without these software.
 - Compiler
     - [postcss-cli](https://github.com/postcss/postcss-cli)
     - [postcss](https://github.com/postcss/postcss)
-    - [postcss-preset-env](https://github.com/csstools/postcss-plugins/tree/main/plugin-packs/postcss-preset-env)
+    - [postcss-preset-env](https://github.com/csstools/postcss-plugins/tree/main/plugin-packs/postcss-preset-env) and [browserslist](https://github.com/browserslist/browserslist)
 - Linker
     - [postcss-cli](https://github.com/postcss/postcss-cli)
     - [postcss](https://github.com/postcss/postcss)
@@ -47,7 +47,7 @@ This Dum-E project would not be possible without these software.
 - Compiler
     - [@babel/cli](https://github.com/babel/babel/tree/main/packages/babel-cli)
     - [@babel/core](https://github.com/babel/babel/tree/main/packages/babel-core)
-    - [@babel/preset-env](https://github.com/babel/babel/tree/main/packages/babel-preset-env)
+    - [@babel/preset-env](https://github.com/babel/babel/tree/main/packages/babel-preset-env) and [browserslist](https://github.com/browserslist/browserslist)
 - Linker
     - [rollup](https://github.com/rollup/rollup)
     - [@rollup/plugin-terser](https://github.com/rollup/plugins/tree/master/packages/terser)
