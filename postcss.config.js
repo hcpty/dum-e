@@ -4,9 +4,9 @@ import cssnano from "cssnano";
 
 export default {
   plugins:
-    process.env.STEP != "link"
+    process.env["STEP"] != "link"
       ? [postcssPresetEnv({ browsers: "last 2 versions, not dead, > 0.2%" })]
-      : process.env.MODE != "release"
+      : process.env["MODE"] != "release"
         ? [postcssImport()]
         : [postcssImport(), cssnano()],
 };
