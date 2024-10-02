@@ -1,5 +1,0 @@
-#!/bin/sh
-#
-# Undeploy targets.
-
-set -eux

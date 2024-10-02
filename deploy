@@ -1,5 +1,0 @@
-#!/bin/sh
-#
-# Deploy targets.
-
-set -eux
