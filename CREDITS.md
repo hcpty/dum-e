@@ -4,10 +4,10 @@
 - Formatter
     - [google-java-format](https://github.com/google/google-java-format)
 - Linter
-    - [javac](https://github.com/openjdk/jdk)
+    - javac
 - Linker *(No need)*
 - Compiler
-    - [javac](https://github.com/openjdk/jdk)
+    - javac
 - Minifier *(No need)*
 
 ### HTML Bundler
