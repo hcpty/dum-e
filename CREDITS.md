@@ -40,6 +40,8 @@
     - [postcss](https://github.com/postcss/postcss)
     - [postcss-preset-env](https://github.com/csstools/postcss-plugins/tree/main/plugin-packs/postcss-preset-env) and [browserslist](https://github.com/browserslist/browserslist)
 - Minifier
+    - [postcss-cli](https://github.com/postcss/postcss-cli)
+    - [postcss](https://github.com/postcss/postcss)
     - [cssnano](https://github.com/cssnano/cssnano)
 
 ### JavaScript Bundler
