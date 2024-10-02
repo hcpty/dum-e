@@ -46,7 +46,7 @@
 - Compiler
     - [@babel/cli](https://github.com/babel/babel/tree/main/packages/babel-cli)
     - [@babel/core](https://github.com/babel/babel/tree/main/packages/babel-core)
-    - [@babel/preset-env](https://github.com/babel/babel/tree/main/packages/babel-preset-env), [browserslist](https://github.com/browserslist/browserslist) and [core-js](https://github.com/zloirock/core-js) *(Limited use)*
+    - [@babel/preset-env](https://github.com/babel/babel/tree/main/packages/babel-preset-env), [browserslist](https://github.com/browserslist/browserslist), [core-js-compat](https://github.com/zloirock/core-js/tree/master/packages/core-js-compat) *(Limited use)* and [core-js](https://github.com/zloirock/core-js) *(Limited use)*
 - Linker
     - [rollup](https://github.com/rollup/rollup)
     - [@rollup/plugin-node-resolve](https://github.com/rollup/plugins/tree/master/packages/node-resolve) *(Limited use)*
