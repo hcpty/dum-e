@@ -1,0 +1,5 @@
+#!/bin/sh
+#
+# Delete targets.
+
+set -eux
