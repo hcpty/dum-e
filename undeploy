@@ -1,5 +1,5 @@
 #!/bin/sh
 #
-# Undeploy targets.
+# Undeploy App.
 
 set -eux
