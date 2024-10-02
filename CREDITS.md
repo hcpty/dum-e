@@ -5,20 +5,24 @@
     - [google-java-format](https://github.com/google/google-java-format)
 - Linter
     - [javac](https://www.wikipedia.org/wiki/Javac)
+- Linker *(No need)*
 - Compiler
     - [javac](https://www.wikipedia.org/wiki/Javac)
-- Linker *(No Need)*
+- Minifier *(No need)*
 
 ### HTML Bundler
 - Formatter
     - [prettier](https://github.com/prettier/prettier)
 - Linter
     - [htmlhint](https://github.com/HTMLHint/HTMLHint)
-- Compiler *(No need)*
 - Linker
     - [posthtml-cli](https://github.com/posthtml/posthtml-cli)
     - [posthtml](https://github.com/posthtml/posthtml)
     - [posthtml-include](https://github.com/posthtml/posthtml-include)
+- Compiler *(No need)*
+- Minifier
+    - [posthtml-cli](https://github.com/posthtml/posthtml-cli)
+    - [posthtml](https://github.com/posthtml/posthtml)
     - [htmlnano](https://github.com/posthtml/htmlnano)
 
 ### CSS Bundler
@@ -27,14 +31,15 @@
 - Linter
     - [stylelint](https://github.com/stylelint/stylelint)
     - [stylelint-config-standard](https://github.com/stylelint/stylelint-config-standard)
-- Compiler
-    - [postcss-cli](https://github.com/postcss/postcss-cli)
-    - [postcss](https://github.com/postcss/postcss)
-    - [postcss-preset-env](https://github.com/csstools/postcss-plugins/tree/main/plugin-packs/postcss-preset-env) and [browserslist](https://github.com/browserslist/browserslist)
 - Linker
     - [postcss-cli](https://github.com/postcss/postcss-cli)
     - [postcss](https://github.com/postcss/postcss)
     - [postcss-import](https://github.com/postcss/postcss-import)
+- Compiler
+    - [postcss-cli](https://github.com/postcss/postcss-cli)
+    - [postcss](https://github.com/postcss/postcss)
+    - [postcss-preset-env](https://github.com/csstools/postcss-plugins/tree/main/plugin-packs/postcss-preset-env) and [browserslist](https://github.com/browserslist/browserslist)
+- Minifier
     - [cssnano](https://github.com/cssnano/cssnano)
 
 ### JavaScript Bundler
@@ -43,12 +48,13 @@
 - Linter
     - [eslint](https://github.com/eslint/eslint)
     - [@eslint/js](https://github.com/eslint/eslint/tree/main/packages/js)
-- Compiler
-    - [@babel/cli](https://github.com/babel/babel/tree/main/packages/babel-cli)
-    - [@babel/core](https://github.com/babel/babel/tree/main/packages/babel-core)
-    - [@babel/preset-env](https://github.com/babel/babel/tree/main/packages/babel-preset-env), [browserslist](https://github.com/browserslist/browserslist), [core-js-compat](https://github.com/zloirock/core-js/tree/master/packages/core-js-compat) *(Limited use)* and [core-js](https://github.com/zloirock/core-js) *(Limited use)*
 - Linker
     - [rollup](https://github.com/rollup/rollup)
     - [@rollup/plugin-node-resolve](https://github.com/rollup/plugins/tree/master/packages/node-resolve) *(Limited use)*
     - [@rollup/plugin-commonjs](https://github.com/rollup/plugins/tree/master/packages/commonjs) *(Limited use)*
-    - [@rollup/plugin-terser](https://github.com/rollup/plugins/tree/master/packages/terser)
+- Compiler
+    - [@babel/cli](https://github.com/babel/babel/tree/main/packages/babel-cli)
+    - [@babel/core](https://github.com/babel/babel/tree/main/packages/babel-core)
+    - [@babel/preset-env](https://github.com/babel/babel/tree/main/packages/babel-preset-env) and [browserslist](https://github.com/browserslist/browserslist)
+- Minifier
+    - [terser](https://github.com/terser/terser)
