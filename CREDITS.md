@@ -51,7 +51,6 @@
     - [@eslint/js](https://github.com/eslint/eslint/tree/main/packages/js)
 - Linker
     - [rollup](https://github.com/rollup/rollup)
-    - [@rollup/plugin-node-resolve](https://github.com/rollup/plugins/tree/master/packages/node-resolve) *(Limited use)*
     - [@rollup/plugin-commonjs](https://github.com/rollup/plugins/tree/master/packages/commonjs) *(Limited use)*
 - Compiler
     - [@babel/cli](https://github.com/babel/babel/tree/main/packages/babel-cli)
