@@ -51,7 +51,7 @@
     - [@eslint/js](https://github.com/eslint/eslint/tree/main/packages/js)
 - Linker
     - [rollup](https://github.com/rollup/rollup)
-    - [@rollup/plugin-commonjs](https://github.com/rollup/plugins/tree/master/packages/commonjs) *(Limited use)*
+    - [@rollup/plugin-commonjs](https://github.com/rollup/plugins/tree/master/packages/commonjs) *(For backward compatibility)*
 - Compiler
     - [@babel/cli](https://github.com/babel/babel/tree/main/packages/babel-cli)
     - [@babel/core](https://github.com/babel/babel/tree/main/packages/babel-core)
