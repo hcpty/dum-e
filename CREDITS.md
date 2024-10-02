@@ -3,8 +3,7 @@
 ### Java Bundler
 - Formatter
     - [google-java-format](https://github.com/google/google-java-format)
-- Linter
-    - javac
+- Linter *(No need)*
 - Linker *(No need)*
 - Compiler
     - javac
