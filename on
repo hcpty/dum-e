@@ -2,4 +2,4 @@
 #
 # Deploy targets.
 
-set -uex
+set -eux
