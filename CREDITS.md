@@ -1,6 +1,10 @@
 # Credits
 
 - /
+    - JDK and [Maven](https://github.com/apache/maven)
+    - [Node.js](https://github.com/nodejs/node) and [pnpm](https://github.com/pnpm/pnpm)
+
+- /
     - [google-java-format](https://github.com/google/google-java-format)
     - [prettier](https://github.com/prettier/prettier)
 
@@ -40,3 +44,5 @@
                 - [terser](https://github.com/terser/terser)
 
 - jar
+
+- [POSIX Shell & Utilities](https://pubs.opengroup.org/onlinepubs/9799919799)
