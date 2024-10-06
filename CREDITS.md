@@ -12,7 +12,7 @@
                 - [htmlhint](https://github.com/HTMLHint/HTMLHint)
             - ?
                 - [stylelint](https://github.com/stylelint/stylelint)
-                - [stylelint-config-standard](https://github.com/stylelint/stylelint-config-standard)
+                - [stylelint-config-recommended](https://github.com/stylelint/stylelint-config-recommended)
             - ?
                 - [eslint](https://github.com/eslint/eslint)
                 - [@eslint/js](https://github.com/eslint/eslint/tree/main/packages/js)

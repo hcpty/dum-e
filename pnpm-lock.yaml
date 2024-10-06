@@ -50,9 +50,9 @@ importers:
       stylelint:
         specifier: ^16.9.0
         version: 16.9.0
-      stylelint-config-standard:
-        specifier: ^36.0.1
-        version: 36.0.1(stylelint@16.9.0)
+      stylelint-config-recommended:
+        specifier: ^14.0.1
+        version: 14.0.1(stylelint@16.9.0)
       terser:
         specifier: ^5.34.1
         version: 5.34.1
@@ -1718,12 +1718,6 @@ packages:
 
   stylelint-config-recommended@14.0.1:
     resolution: {integrity: sha512-bLvc1WOz/14aPImu/cufKAZYfXs/A/owZfSMZ4N+16WGXLoX5lOir53M6odBxvhgmgdxCVnNySJmZKx73T93cg==}
-    engines: {node: '>=18.12.0'}
-    peerDependencies:
-      stylelint: ^16.1.0
-
-  stylelint-config-standard@36.0.1:
-    resolution: {integrity: sha512-8aX8mTzJ6cuO8mmD5yon61CWuIM4UD8Q5aBcWKGSf6kg+EC3uhB+iOywpTK4ca6ZL7B49en8yanOFtUW0qNzyw==}
     engines: {node: '>=18.12.0'}
     peerDependencies:
       stylelint: ^16.1.0
@@ -3528,11 +3522,6 @@ snapshots:
   stylelint-config-recommended@14.0.1(stylelint@16.9.0):
     dependencies:
       stylelint: 16.9.0
-
-  stylelint-config-standard@36.0.1(stylelint@16.9.0):
-    dependencies:
-      stylelint: 16.9.0
-      stylelint-config-recommended: 14.0.1(stylelint@16.9.0)
 
   stylelint@16.9.0:
     dependencies:
