@@ -1,60 +1,40 @@
 # Credits
 
-### Java Bundler
-- Formatter
-    - [google-java-format](https://github.com/google/google-java-format)
-- Linter *(No need)*
-- Linker *(No need)*
-- Compiler
-    - javac
-- Minifier *(No need)*
+- [google-java-format](https://github.com/google/google-java-format)
+- [prettier](https://github.com/prettier/prettier)
 
-### HTML Bundler
-- Formatter
-    - [prettier](https://github.com/prettier/prettier)
-- Linter
-    - [htmlhint](https://github.com/HTMLHint/HTMLHint)
-- Linker
-    - [posthtml-cli](https://github.com/posthtml/posthtml-cli)
-    - [posthtml](https://github.com/posthtml/posthtml)
-    - [posthtml-include](https://github.com/posthtml/posthtml-include)
-- Compiler *(No need)*
-- Minifier
-    - [posthtml-cli](https://github.com/posthtml/posthtml-cli)
-    - [posthtml](https://github.com/posthtml/posthtml)
-    - [htmlnano](https://github.com/posthtml/htmlnano)
+- javac
+-
+    -
+        -
+            - [htmlhint](https://github.com/HTMLHint/HTMLHint)
+        -
+            - [stylelint](https://github.com/stylelint/stylelint)
+            - [stylelint-config-standard](https://github.com/stylelint/stylelint-config-standard)
+        -
+            - [eslint](https://github.com/eslint/eslint)
+            - [@eslint/js](https://github.com/eslint/eslint/tree/main/packages/js)
+    -
+        -
+            - [posthtml-cli](https://github.com/posthtml/posthtml-cli)
+            - [posthtml](https://github.com/posthtml/posthtml)
+            - [posthtml-include](https://github.com/posthtml/posthtml-include)
+        -
+            - [postcss-cli](https://github.com/postcss/postcss-cli)
+            - [postcss](https://github.com/postcss/postcss)
+            - [postcss-import](https://github.com/postcss/postcss-import)
+        -
+            - [rollup](https://github.com/rollup/rollup)
+    -
+        -
+            - [posthtml-cli](https://github.com/posthtml/posthtml-cli)
+            - [posthtml](https://github.com/posthtml/posthtml)
+            - [htmlnano](https://github.com/posthtml/htmlnano)
+        -
+            - [postcss-cli](https://github.com/postcss/postcss-cli)
+            - [postcss](https://github.com/postcss/postcss)
+            - [cssnano](https://github.com/cssnano/cssnano)
+        -
+            - [terser](https://github.com/terser/terser)
 
-### CSS Bundler
-- Formatter
-    - [prettier](https://github.com/prettier/prettier)
-- Linter
-    - [stylelint](https://github.com/stylelint/stylelint)
-    - [stylelint-config-standard](https://github.com/stylelint/stylelint-config-standard)
-- Linker
-    - [postcss-cli](https://github.com/postcss/postcss-cli)
-    - [postcss](https://github.com/postcss/postcss)
-    - [postcss-import](https://github.com/postcss/postcss-import)
-- Compiler
-    - [postcss-cli](https://github.com/postcss/postcss-cli)
-    - [postcss](https://github.com/postcss/postcss)
-    - [postcss-preset-env](https://github.com/csstools/postcss-plugins/tree/main/plugin-packs/postcss-preset-env) and [browserslist](https://github.com/browserslist/browserslist)
-- Minifier
-    - [postcss-cli](https://github.com/postcss/postcss-cli)
-    - [postcss](https://github.com/postcss/postcss)
-    - [cssnano](https://github.com/cssnano/cssnano)
-
-### JavaScript Bundler
-- Formatter
-    - [prettier](https://github.com/prettier/prettier)
-- Linter
-    - [eslint](https://github.com/eslint/eslint)
-    - [@eslint/js](https://github.com/eslint/eslint/tree/main/packages/js)
-- Linker
-    - [rollup](https://github.com/rollup/rollup)
-    - [@rollup/plugin-commonjs](https://github.com/rollup/plugins/tree/master/packages/commonjs) *(For backward compatibility)*
-- Compiler
-    - [@babel/cli](https://github.com/babel/babel/tree/main/packages/babel-cli)
-    - [@babel/core](https://github.com/babel/babel/tree/main/packages/babel-core)
-    - [@babel/preset-env](https://github.com/babel/babel/tree/main/packages/babel-preset-env) and [browserslist](https://github.com/browserslist/browserslist)
-- Minifier
-    - [terser](https://github.com/terser/terser)
+- jar
