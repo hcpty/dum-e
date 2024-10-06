@@ -1,5 +1,7 @@
 # Credits
 
+- [POSIX Shell & Utilities](https://pubs.opengroup.org/onlinepubs/9799919799/)
+
 - /
     - [google-java-format](https://github.com/google/google-java-format)
     - [prettier](https://github.com/prettier/prettier)
