@@ -2,7 +2,7 @@
 
 - /
     - JDK and [Maven](https://github.com/apache/maven)
-    - [Node.js](https://github.com/nodejs/node), [pnpm](https://github.com/pnpm/pnpm) and npx
+    - [Node.js](https://github.com/nodejs/node) and [pnpm](https://github.com/pnpm/pnpm)
 
 - /
     - /
