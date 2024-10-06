@@ -43,5 +43,4 @@
                 - /
                     - [terser](https://github.com/terser/terser)
     - jar
-
-- [POSIX Shell & Utilities](https://pubs.opengroup.org/onlinepubs/9799919799)
+    - [POSIX Shell & Utilities](https://pubs.opengroup.org/onlinepubs/9799919799)
