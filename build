@@ -1,5 +1,5 @@
 #!/bin/sh
 #
-# Delete targets.
+# Build targets.
 
 set -eux
