@@ -1,2 +1,2 @@
 # Readme
-Dum-E is a Web Bundler.
+A web bundler.
