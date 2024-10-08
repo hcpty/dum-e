@@ -1,2 +1,2 @@
 # Readme
-Dum-E is a site bundler.
+Dum-E is an Arc App Bundler.
