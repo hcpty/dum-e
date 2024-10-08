@@ -1,7 +1,7 @@
 # Credits
 
 - /
-    - [JDK](https://github.com/openjdk/jdk) and [Maven](https://github.com/apache/maven)
+    - [Oracle JDK](https://www.oracle.com/java/technologies/downloads) and [Maven](https://github.com/apache/maven)
     - [Node.js](https://github.com/nodejs/node) and [pnpm](https://github.com/pnpm/pnpm)
 
 - /
