@@ -12,35 +12,16 @@
     - javac
     - /
       - /
-        - /
-          - npx and [htmlhint](https://github.com/HTMLHint/HTMLHint)
-        - /
-          - npx and [stylelint](https://github.com/stylelint/stylelint)
-          - [stylelint-config-recommended](https://github.com/stylelint/stylelint-config-recommended)
-        - /
-          - npx and [eslint](https://github.com/eslint/eslint)
-          - [@eslint/js](https://github.com/eslint/eslint/tree/main/packages/js)
+        - npx and [htmlhint](https://github.com/HTMLHint/HTMLHint)
+        - npx, [stylelint](https://github.com/stylelint/stylelint) and [stylelint-config-recommended](https://github.com/stylelint/stylelint-config-recommended)
+        - npx, [eslint](https://github.com/eslint/eslint) and [@eslint/js](https://github.com/eslint/eslint/tree/main/packages/js)
       - /
-        - /
-          - npx and [posthtml-cli](https://github.com/posthtml/posthtml-cli)
-          - [posthtml](https://github.com/posthtml/posthtml)
-          - [posthtml-include](https://github.com/posthtml/posthtml-include)
-        - /
-          - npx and [postcss-cli](https://github.com/postcss/postcss-cli)
-          - [postcss](https://github.com/postcss/postcss)
-          - [postcss-import](https://github.com/postcss/postcss-import)
-        - /
-          - npx and [rollup](https://github.com/rollup/rollup)
+        - npx, [posthtml-cli](https://github.com/posthtml/posthtml-cli), [posthtml](https://github.com/posthtml/posthtml) and [posthtml-include](https://github.com/posthtml/posthtml-include)
+        - npx, [postcss-cli](https://github.com/postcss/postcss-cli), [postcss](https://github.com/postcss/postcss) and [postcss-import](https://github.com/postcss/postcss-import)
+        - npx and [rollup](https://github.com/rollup/rollup)
       - /
-        - /
-          - npx and [posthtml-cli](https://github.com/posthtml/posthtml-cli)
-          - [posthtml](https://github.com/posthtml/posthtml)
-          - [htmlnano](https://github.com/posthtml/htmlnano)
-        - /
-          - npx and [postcss-cli](https://github.com/postcss/postcss-cli)
-          - [postcss](https://github.com/postcss/postcss)
-          - [cssnano](https://github.com/cssnano/cssnano)
-        - /
-          - npx and [terser](https://github.com/terser/terser)
+        - npx, [posthtml-cli](https://github.com/posthtml/posthtml-cli), [posthtml](https://github.com/posthtml/posthtml) and [htmlnano](https://github.com/posthtml/htmlnano)
+        - npx and [postcss-cli](https://github.com/postcss/postcss-cli), [postcss](https://github.com/postcss/postcss) and [cssnano](https://github.com/cssnano/cssnano)
+        - npx and [terser](https://github.com/terser/terser)
   - jar
   - [POSIX Shell & Utilities](https://pubs.opengroup.org/onlinepubs/9799919799)
