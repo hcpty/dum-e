@@ -17,7 +17,7 @@
     "posthtml-include": "^2.0.1",
     "prettier": "^3.3.3",
     "rollup": "^4.24.0",
-    "stylelint": "^16.9.0",
+    "stylelint": "^16.10.0",
     "stylelint-config-recommended": "^14.0.1",
     "terser": "^5.34.1"
   }
