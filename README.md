@@ -1,2 +1,2 @@
 # Readme
-A web bundler.
+A activity bundler.
