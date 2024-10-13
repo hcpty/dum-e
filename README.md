@@ -1,7 +1,7 @@
 # Readme
 An activity bundler.
 
-Credits:
+### Credits
 
 - /
   - [Oracle JDK](https://www.oracle.com/java/technologies/downloads) and [Apache Maven](https://github.com/apache/maven)
