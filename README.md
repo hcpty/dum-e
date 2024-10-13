@@ -1,5 +1,5 @@
 # Readme
-A activity bundler.
+An activity bundler.
 
 Credits:
 
