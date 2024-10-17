@@ -15,7 +15,7 @@ An activity bundler.
     - javac
     - /
       - /
-        - npx and [htmlhint](https://github.com/HTMLHint/HTMLHint)
+        - npx and [markuplint](https://github.com/markuplint/markuplint)
         - npx, [stylelint](https://github.com/stylelint/stylelint) and [stylelint-config-recommended](https://github.com/stylelint/stylelint-config-recommended)
         - npx, [eslint](https://github.com/eslint/eslint) and [@eslint/js](https://github.com/eslint/eslint/tree/main/packages/js)
       - /
