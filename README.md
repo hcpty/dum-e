@@ -1,5 +1,5 @@
 # Readme
-An activity bundler.
+An app activity bundler.
 
 ### Credits
 
