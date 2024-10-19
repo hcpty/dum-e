@@ -3,7 +3,7 @@ export default {
   pretenders: [
     {
       selector: "include",
-      as: "span",
+      as: "div",
     },
   ],
 };
