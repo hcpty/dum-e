@@ -9,8 +9,7 @@ An activity bundler.
 
 - /
   - /
-    - [google-java-format](https://github.com/google/google-java-format)
-    - npx and [prettier](https://github.com/prettier/prettier)
+    - [google-java-format](https://github.com/google/google-java-format), npx and [prettier](https://github.com/prettier/prettier)
   - /
     - javac
     - npx and [markuplint](https://github.com/markuplint/markuplint), [posthtml-cli](https://github.com/posthtml/posthtml-cli), [posthtml](https://github.com/posthtml/posthtml), [posthtml-include](https://github.com/posthtml/posthtml-include) and [htmlnano](https://github.com/posthtml/htmlnano)
