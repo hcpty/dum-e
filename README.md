@@ -8,7 +8,9 @@ An activity bundler.
   - [Node.js](https://github.com/nodejs/node) and [pnpm](https://github.com/pnpm/pnpm)
 
 - /
-  - [google-java-format](https://github.com/google/google-java-format), npx and [prettier](https://github.com/prettier/prettier)
+  - /
+    - [google-java-format](https://github.com/google/google-java-format)
+    - npx and [prettier](https://github.com/prettier/prettier)
   - /
     - javac
     - npx and [typescript](https://github.com/microsoft/TypeScript)
